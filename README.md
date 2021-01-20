@@ -1,6 +1,6 @@
 # flutter_notes_api
-
-A new Flutter application.
+An application to create, update, and delete online notes using this api 
+https://tq-notes-api-jkrgrdggbq-el.a.run.app/swagger/index.html
 
 ## Getting Started
 
