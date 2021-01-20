@@ -19,15 +19,15 @@ samples, guidance on mobile development, and a full API reference.
 ---
 
 <p align="center">
- <img src = "images/1.jpg" width = "512">
+ <img src = "images/1.jpeg" width = "512">
 </p>
 
 <p align="center">
- <img src = "images/2.jpg" width = "512">
+ <img src = "images/2.jpeg" width = "512">
 </p>
 
 <p align="center">
- <img src = "images/3.jpg" width = "512">
+ <img src = "images/3.jpeg" width = "512">
 </p>
 
 <p align="center">
@@ -35,6 +35,6 @@ samples, guidance on mobile development, and a full API reference.
 </p>
 
 <p align="center">
- <img src = "images/5.jpg" width = "512">
+ <img src = "images/5.jpeg" width = "512">
 </p>
 
